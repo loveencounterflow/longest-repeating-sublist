@@ -1,0 +1,18 @@
+{
+  "name": "longest-repeating-sublist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "node lib/tests.js",
+    "build": "coffee -o lib -c src"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "guy-test": "^1.1.2"
+  },
+  "dependencies": {
+    "cnd": "^2.0.2"
+  }
+}
